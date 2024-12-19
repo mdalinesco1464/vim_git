@@ -15,6 +15,6 @@
 int main() {
     // TODO: Implement functionality
     printf("Hello, World!\n");
-
+    // add comments section for in terminal git works
     return 0;
 }
