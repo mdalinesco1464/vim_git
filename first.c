@@ -14,7 +14,7 @@
  */
 int main() {
     // TODO: Implement functionality
-    printf("Hello, World!\n");
+    printf("Hello, mamoni ,humu gudu!\n");
     // add comments section for in terminal git works
     return 0;
 }
